@@ -120,7 +120,7 @@
     "kubernetes-types": "^1.30.0",
     "msgpackr": "^2.0.1",
     "multipasta": "^0.2.7",
-    "toml": "^4.1.1",
+    "toml": "^4.2.0",
     "uuid": "^14.0.0",
     "yaml": "^2.9.0"
   }
